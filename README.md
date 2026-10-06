@@ -4,10 +4,9 @@ Application de gestion des salaires permettant de gérer les employés, calculer
 
 ## 🚀 Fonctionnalités
 
-- Gestion des employés (ajout, modification, suppression)
+- Gestion des employés (ajout, modification, suppression, gestion des postes et des contrats)
 - Calcul automatique des salaires
 - Génération de bulletins de paie au format PDF
-- [Ajoute ici d'autres fonctionnalités : authentification, gestion des départements, historique, etc.]
 
 ## 🛠️ Stack technique
 
